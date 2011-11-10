@@ -38,7 +38,7 @@ use 5.010;
 use FindBin;
 use File::Basename 'fileparse';
 
-$Piddy::VERSION = '0.01';
+$Piddy::VERSION = '0.02';
 
 =head2 new
 

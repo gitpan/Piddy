@@ -1,6 +1,6 @@
 #!perl -T
 
-use Test::Most;
+use Test::More;
 
 BEGIN {
     use_ok( 'Piddy' ) || print "Bail out!\n";
